@@ -1,0 +1,14 @@
+VirtualAlloc
+VirtualProtect
+LoadLibraryA
+LoadLibraryW
+GetProcAddress
+CreateRemoteThread
+NtCreateFile
+NtWriteFile
+NtReadFile
+NtQueryInformationProcess
+NtOpenProcess
+WriteProcessMemory
+ReadProcessMemory
+TerminateProcess
